@@ -1,0 +1,6 @@
+body {
+  background-color: darkorange;
+  background-image: url('flames-pattern.png');
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
